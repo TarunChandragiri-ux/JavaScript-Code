@@ -10,7 +10,7 @@ console.table(accountId,accountEmail,accountPassword);
 let name = "hitesh";
 let age = 18;
 let isLoggedIn = false;
-let xyz = null; // datatypes in object
+let xyz = null; // datatypes in object it is a standalone value
 let occupation; // undefined datatype
 
 
