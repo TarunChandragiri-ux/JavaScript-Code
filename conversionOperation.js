@@ -37,3 +37,19 @@ console.log( typeof stringNumber);
 
 
 
+// ***********Operations*********
+
+let value = 4;
+let negValue = -value;
+console.log(negValue);
+
+// concat 
+let str1 = "helo";
+let str2 = " mark";
+
+let str3  = str1 + str2;
+
+console.log(str3);
+
+
+
